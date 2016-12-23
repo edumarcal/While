@@ -1,0 +1,7 @@
+soma := 0;
+b := 6;
+para x de 1 ate b faca {
+	soma := soma + x;
+	b := b - 2 
+};
+escreva soma

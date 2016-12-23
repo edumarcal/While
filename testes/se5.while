@@ -1,0 +1,3 @@
+n := 0;
+se n = 0 então
+	exiba "iguais"
